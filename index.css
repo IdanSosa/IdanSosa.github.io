@@ -1,0 +1,14 @@
+h1{
+    color: orange;
+}
+#demo {
+    color:green;
+}
+.myclass {
+    color: blue;
+}
+a{
+    marigin:10px;
+    padding:10px;
+    border:5px solid black;
+}
